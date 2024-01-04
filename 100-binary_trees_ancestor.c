@@ -2,7 +2,7 @@
 #include "10-binary_tree_depth.c"
 
 /**
- * binary_trees_ancestor - A function Finds the lowest common ancestor of two nodes
+ * binary_trees_ancestor -func Finds the lowest common ancestor of two nodes
  * @first: A Pointer to the first node
  * @second: A Pointer to the second node
  *
