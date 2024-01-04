@@ -46,23 +46,29 @@ git clone https://github.com/Teeclever/0x1D-binary_trees.git
 
 Navigate to the desired directory:
 
-bash
+```bash
 
 cd 0x1D-binary_trees/1-binary_tree_insert_left
 
-Compile the C file (e.g., 0-binary_tree_node.c):
+gcc -Wall -Werror -Wextra -pedantic 0-binary_tree_node.c -o 
 
-bash
-
-gcc -Wall -Werror -Wextra -pedantic 0-binary_tree_node.c -o binary_tree_node
-
-Run the compiled executable:
-
-bash
 
  ./binary_tree_node
 
-    Follow the on-screen instructions or check the code comments for details on the specific task.
+```
+# Contributors
 
-Contributing
+The following people contributed to this repository.
+
+- [Omotobora omotayo](https://github.com/Teeclever)
+
+  - Added support for user authentication.
+  - Fixed a bug in the update functionality.
+
+- [Aniekan-abasi](https://github.com/dgamee)
+
+  - Implemented the `count` command for various object types.
+  - Updated documentation for clarity.
+
+If you'd like to contribute to this project, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
 
