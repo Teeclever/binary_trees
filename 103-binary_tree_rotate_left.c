@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_rotate_left - A function that Performs a rotation on a binary tree
+ * binary_tree_rotate_left - function that Performs a rotation on a binary tree
  * @tree: A Pointer to the root node of the tree to rotate
  *
  * Return: A Pointer to the new root node of the tree once rotated
